@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ckit-app-preview/static/css/main.58b94233.chunk.css",
-    "main.js": "/ckit-app-preview/static/js/main.1ecff646.chunk.js",
-    "main.js.map": "/ckit-app-preview/static/js/main.1ecff646.chunk.js.map",
+    "main.js": "/ckit-app-preview/static/js/main.eb57e030.chunk.js",
+    "main.js.map": "/ckit-app-preview/static/js/main.eb57e030.chunk.js.map",
     "runtime-main.js": "/ckit-app-preview/static/js/runtime-main.1187bae4.js",
     "runtime-main.js.map": "/ckit-app-preview/static/js/runtime-main.1187bae4.js.map",
     "static/js/2.e8cbdec6.chunk.js": "/ckit-app-preview/static/js/2.e8cbdec6.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.1187bae4.js",
     "static/js/2.e8cbdec6.chunk.js",
     "static/css/main.58b94233.chunk.css",
-    "static/js/main.1ecff646.chunk.js"
+    "static/js/main.eb57e030.chunk.js"
   ]
 }
