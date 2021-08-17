@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/build/static/css/main.ed9952cd.chunk.css",
-    "main.js": "/build/static/js/main.baa963e4.chunk.js",
-    "main.js.map": "/build/static/js/main.baa963e4.chunk.js.map",
-    "runtime-main.js": "/build/static/js/runtime-main.d450fe8a.js",
-    "runtime-main.js.map": "/build/static/js/runtime-main.d450fe8a.js.map",
-    "static/js/2.25f505bc.chunk.js": "/build/static/js/2.25f505bc.chunk.js",
-    "static/js/2.25f505bc.chunk.js.map": "/build/static/js/2.25f505bc.chunk.js.map",
-    "static/js/3.d7b25017.chunk.js": "/build/static/js/3.d7b25017.chunk.js",
-    "static/js/3.d7b25017.chunk.js.map": "/build/static/js/3.d7b25017.chunk.js.map",
-    "index.html": "/build/index.html",
-    "static/css/main.ed9952cd.chunk.css.map": "/build/static/css/main.ed9952cd.chunk.css.map",
-    "static/js/2.25f505bc.chunk.js.LICENSE.txt": "/build/static/js/2.25f505bc.chunk.js.LICENSE.txt",
-    "static/media/App.less": "/build/static/media/Lato-Regular.9919edff.ttf"
+    "main.css": "/ckit-app-preview/static/css/main.58b94233.chunk.css",
+    "main.js": "/ckit-app-preview/static/js/main.1ecff646.chunk.js",
+    "main.js.map": "/ckit-app-preview/static/js/main.1ecff646.chunk.js.map",
+    "runtime-main.js": "/ckit-app-preview/static/js/runtime-main.1187bae4.js",
+    "runtime-main.js.map": "/ckit-app-preview/static/js/runtime-main.1187bae4.js.map",
+    "static/js/2.e8cbdec6.chunk.js": "/ckit-app-preview/static/js/2.e8cbdec6.chunk.js",
+    "static/js/2.e8cbdec6.chunk.js.map": "/ckit-app-preview/static/js/2.e8cbdec6.chunk.js.map",
+    "static/js/3.b2900120.chunk.js": "/ckit-app-preview/static/js/3.b2900120.chunk.js",
+    "static/js/3.b2900120.chunk.js.map": "/ckit-app-preview/static/js/3.b2900120.chunk.js.map",
+    "index.html": "/ckit-app-preview/index.html",
+    "static/css/main.58b94233.chunk.css.map": "/ckit-app-preview/static/css/main.58b94233.chunk.css.map",
+    "static/js/2.e8cbdec6.chunk.js.LICENSE.txt": "/ckit-app-preview/static/js/2.e8cbdec6.chunk.js.LICENSE.txt",
+    "static/media/App.less": "/ckit-app-preview/static/media/Lato-Regular.9919edff.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.d450fe8a.js",
-    "static/js/2.25f505bc.chunk.js",
-    "static/css/main.ed9952cd.chunk.css",
-    "static/js/main.baa963e4.chunk.js"
+    "static/js/runtime-main.1187bae4.js",
+    "static/js/2.e8cbdec6.chunk.js",
+    "static/css/main.58b94233.chunk.css",
+    "static/js/main.1ecff646.chunk.js"
   ]
 }
