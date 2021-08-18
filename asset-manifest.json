@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/ckit-app-preview/static/css/main.58b94233.chunk.css",
-    "main.js": "/ckit-app-preview/static/js/main.eb57e030.chunk.js",
-    "main.js.map": "/ckit-app-preview/static/js/main.eb57e030.chunk.js.map",
+    "main.js": "/ckit-app-preview/static/js/main.fe0bdf24.chunk.js",
+    "main.js.map": "/ckit-app-preview/static/js/main.fe0bdf24.chunk.js.map",
     "runtime-main.js": "/ckit-app-preview/static/js/runtime-main.1187bae4.js",
     "runtime-main.js.map": "/ckit-app-preview/static/js/runtime-main.1187bae4.js.map",
-    "static/js/2.e8cbdec6.chunk.js": "/ckit-app-preview/static/js/2.e8cbdec6.chunk.js",
-    "static/js/2.e8cbdec6.chunk.js.map": "/ckit-app-preview/static/js/2.e8cbdec6.chunk.js.map",
+    "static/js/2.dba67223.chunk.js": "/ckit-app-preview/static/js/2.dba67223.chunk.js",
+    "static/js/2.dba67223.chunk.js.map": "/ckit-app-preview/static/js/2.dba67223.chunk.js.map",
     "static/js/3.b2900120.chunk.js": "/ckit-app-preview/static/js/3.b2900120.chunk.js",
     "static/js/3.b2900120.chunk.js.map": "/ckit-app-preview/static/js/3.b2900120.chunk.js.map",
     "index.html": "/ckit-app-preview/index.html",
     "static/css/main.58b94233.chunk.css.map": "/ckit-app-preview/static/css/main.58b94233.chunk.css.map",
-    "static/js/2.e8cbdec6.chunk.js.LICENSE.txt": "/ckit-app-preview/static/js/2.e8cbdec6.chunk.js.LICENSE.txt",
+    "static/js/2.dba67223.chunk.js.LICENSE.txt": "/ckit-app-preview/static/js/2.dba67223.chunk.js.LICENSE.txt",
     "static/media/App.less": "/ckit-app-preview/static/media/Lato-Regular.9919edff.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.1187bae4.js",
-    "static/js/2.e8cbdec6.chunk.js",
+    "static/js/2.dba67223.chunk.js",
     "static/css/main.58b94233.chunk.css",
-    "static/js/main.eb57e030.chunk.js"
+    "static/js/main.fe0bdf24.chunk.js"
   ]
 }
